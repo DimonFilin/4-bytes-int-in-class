@@ -1,0 +1,7 @@
+C:\Users\vladf\source\repos\4-byte int\4-byte int\bin\Debug\4-byte int.exe.config
+C:\Users\vladf\source\repos\4-byte int\4-byte int\bin\Debug\4-byte int.exe
+C:\Users\vladf\source\repos\4-byte int\4-byte int\bin\Debug\4-byte int.pdb
+C:\Users\vladf\source\repos\4-byte int\4-byte int\obj\Debug\4-byte int.csproj.AssemblyReference.cache
+C:\Users\vladf\source\repos\4-byte int\4-byte int\obj\Debug\4-byte int.csproj.CoreCompileInputs.cache
+C:\Users\vladf\source\repos\4-byte int\4-byte int\obj\Debug\4-byte int.exe
+C:\Users\vladf\source\repos\4-byte int\4-byte int\obj\Debug\4-byte int.pdb
